@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="phone_number_value"
+        android:title="Send to Contact Number"
+        android:summary="Number in which sms is being sent to"
+        />
+
+</PreferenceScreen>
